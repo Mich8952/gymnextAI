@@ -1,0 +1,6 @@
+framework module Pods_ML_TFLITETests {
+  umbrella header "Pods-ML_TFLITETests-umbrella.h"
+
+  export *
+  module * { export * }
+}
